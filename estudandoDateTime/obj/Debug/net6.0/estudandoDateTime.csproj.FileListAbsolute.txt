@@ -1,0 +1,15 @@
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\bin\Debug\net6.0\estudandoDateTime.exe
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\bin\Debug\net6.0\estudandoDateTime.deps.json
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\bin\Debug\net6.0\estudandoDateTime.runtimeconfig.json
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\bin\Debug\net6.0\estudandoDateTime.dll
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\bin\Debug\net6.0\estudandoDateTime.pdb
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.AssemblyInfo.cs
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.dll
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\refint\estudandoDateTime.dll
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.pdb
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\estudandoDateTime.genruntimeconfig.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\estudandoDateTime\estudandoDateTime\obj\Debug\net6.0\ref\estudandoDateTime.dll
